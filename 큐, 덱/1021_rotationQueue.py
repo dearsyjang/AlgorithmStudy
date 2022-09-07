@@ -7,7 +7,7 @@ N, M = map(int, input().split())
 position = list(map(int, input().split()))
 queue = deque([])
 
-for i in range(1, N+1):
+for i in range(1, len()):
     queue.append(i)
 
 cnt = 0
