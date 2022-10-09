@@ -97,4 +97,5 @@ for tc in range(1, T+1):
         # 큐가 비어있지 않으면, 가장 뒤에 있는 정수
         else:
             print(queue[-1])
+        # 수정수정수정
 
